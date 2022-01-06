@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Techno-02
 - 👀 I’m interested in learning about Arduino and am currently trying out different available projects and aim to work on my own idea in the future. 
-- 🌱 I’m currently learning about database fundamentals and also working on improving my programming skills. 
+- 🌱 Besides I am interested in learning about Internet Of Things(IOT) and also currently exploring data analytics too. 
 - 📫 How to reach me-- One can feel free to reach out to me on my email id harsha.peesapaty@gmail.com
 Also I would appreciate if anyone who is pursuing electronics and communication as their career to please look through my each repository I publish and provide their valuable feedback.
 <!---
